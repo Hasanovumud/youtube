@@ -18,7 +18,7 @@ os.environ["PATH"] += os.pathsep + ffmpeg_path
 
 # --- KONFİQURASİYA ---
 # Render-də Environment Variables hissəsindən götürüləcək
-API_TOKEN = os.getenv('8723229543:AAGxucoZOsCMgjU2rTjgj0cP8ZSizYJMv8g', '8723229543:AAGxucoZOsCMgjU2rTjgj0cP8ZSizYJMv8g')
+API_TOKEN = os.getenv('8621629815:AAEEKQF5aTDT1K-FOvUxiy6isiPytNjgrnw', '8621629815:AAEEKQF5aTDT1K-FOvUxiy6isiPytNjgrnw')
 DOWNLOAD_DIR = '/tmp/downloads' # Render-də müvəqqəti yaddaş
 
 if not os.path.exists(DOWNLOAD_DIR):
